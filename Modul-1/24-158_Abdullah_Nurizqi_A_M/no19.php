@@ -12,6 +12,7 @@ $nim   = $_GET['nim']   ?? "-";
 $asal  = $_GET['asal']  ?? "-";
 $ttl   = $_GET['ttl']   ?? "-";
 $email = $_GET['email'] ?? "-";
+
 ?>
 
 <table border="2" cellpadding="5">
