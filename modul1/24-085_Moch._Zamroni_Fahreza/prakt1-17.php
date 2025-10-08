@@ -103,6 +103,7 @@ echo strrev("Hello world!"); // outputs !dlrow olleH
 <!-- Pencarian dalam string (Posisi) -->
 <?php
 echo strpos("Hello world!", "world"); // outputs 6
+// mendapatkanm index karakter yang dicari
 ?>
 
 <!-- Mengganti Text -->
