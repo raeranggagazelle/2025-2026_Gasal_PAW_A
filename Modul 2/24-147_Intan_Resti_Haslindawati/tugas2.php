@@ -9,7 +9,7 @@ if($aksi == "Tambah"){
     if($menu == "nasi"){
         $nama = "Nasi Goreng";
         $harga = 10000;
-    }elseif($menu == "mie"){
+    }elseif($menu == "soto"){
         $nama = "Soto Ayam";
         $harga = 12000;
     }else{
